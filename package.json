@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "next",
+    "@clerk/nextjs": "^3.0.0-alpha.4",
     "next": "12.0.9",
     "prettier": "^2.5.1",
     "react": "17.0.2",
