@@ -1,3 +1,8 @@
+
+> [!WARNING]  
+> This repository has been archived as of January 11, 2024 and will not be further maintained. If you are curious about this repo and looking for help, please join our Discord https://clerk.com/discord
+
+
 # Clerk and Next.js SSR Example
 
 This example shows how to use [Clerk](https://www.clerk.dev/?utm_source=github&utm_medium=starter_repos&utm_campaign=nextjs_starter) with Next.js. The example features adding sign up, sign in, profile management, and an authenticated API route to your Next.js application.
